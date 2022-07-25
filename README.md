@@ -9,6 +9,13 @@
 ---
 
 
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndrean&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![N Drean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndrean&theme=radical)](https://github.com/ndrean/github-readme-stats)
+
+
 
 <!--
 **ndrean/ndrean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
