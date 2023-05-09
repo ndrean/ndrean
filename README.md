@@ -1,9 +1,8 @@
 ### Hi there, I'm Neven DREAN 👋
 
 ---
-<!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/summary@0.9.13/codersrank-summary.min.js"></script>
-<codersrank-summary username="NEVEN_DREAN"></codersrank-summary>
+<img width="814" alt="Screenshot 2023-05-09 at 17 53 22" src="https://github.com/ndrean/ndrean/assets/6793008/5164ea3b-603d-4b47-a283-657b38f36776">
+
 ---
 
 🧰 Toolbox
