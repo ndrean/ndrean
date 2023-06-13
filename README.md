@@ -1,7 +1,7 @@
 ### Hi there, I'm Neven DREAN 👋
 
 ---
-<img width="814" alt="Screenshot 2023-05-09 at 17 53 22" src="https://github.com/ndrean/ndrean/assets/6793008/5164ea3b-603d-4b47-a283-657b38f36776">
+<img width="811" alt="Screenshot 2023-06-13 at 10 24 01" src="https://github.com/ndrean/ndrean/assets/6793008/cd8aa956-5321-4642-8a7b-e9dff66261bc">
 
 ---
 
