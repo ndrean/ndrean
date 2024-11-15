@@ -1,10 +1,8 @@
 ## Hi there, I'm Neven DREAN 👋
 
 
-Enjoying the Elixir world and FP.
+Enjoying the Elixir world and Zig.
 
-
-My favorite front-end framework is Solid.js
 
 ---
 
