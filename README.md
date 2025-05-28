@@ -9,7 +9,7 @@ Enjoying the Elixir world and Zig.
 
 ---
 
-[![NDrean's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrean)](https://github.com/ndrean/github-readme-stats)
+[![NDrean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndrean)](https://github.com/ndrean/github-readme-stats)
 
 🧰 Toolbox
 
