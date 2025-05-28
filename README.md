@@ -2,14 +2,11 @@
 
 
 Enjoying the Elixir world and Zig.
-
-
----
-<img width="812" alt="Screenshot 2024-12-09 at 15 08 44" src="https://github.com/user-attachments/assets/bdbefafa-560c-4c51-bf90-7d902135fb79">
-
 ---
 
 [![NDrean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndrean)](https://github.com/ndrean/github-readme-stats)
+
+---
 
 🧰 Toolbox
 
