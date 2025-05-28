@@ -1,10 +1,6 @@
 ## Hi there, I'm Neven DREAN 👋
 
-
 Enjoying the Elixir world and Zig.
----
-
-[![NDrean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndrean)](https://github.com/ndrean/github-readme-stats&show_icons=true)
 
 ---
 
@@ -22,7 +18,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-origi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndrean&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![N Drean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndrean&theme=radical)](https://github.com/ndrean/github-readme-stats)
+[![N Drean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndrean&theme=radical)](https://github.com/ndrean/github-readme-stats&show_icons=true)
 
 
 
